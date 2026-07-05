@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎬 Netflix Customer Churn Data Analysis
 
 A professional data analysis project that explores Netflix customer behavior and identifies the key factors that influence customer churn. This project transforms raw customer data into meaningful insights using Python, data visualization, and an interactive Streamlit application.
@@ -120,12 +120,4 @@ This project helps understand customer behavior by identifying churn patterns, s
 
 ---
 
-## 👨‍💻 Developed By
 
-**Abi Priyen**
-
-A data analytics project created using Python and Streamlit as part of my data analytics portfolio.
-=======
-# Netflix-Subscriber-Data-Analysis
-Netflix Customer Churn Analysis Dashboard
->>>>>>> bee4d4c545f93817e1512e303ab378ec4f304442
